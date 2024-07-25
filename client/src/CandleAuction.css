@@ -1,0 +1,22 @@
+/* CandleAuction.css */
+.container {
+    max-width: 800px;
+    margin-top: 2rem;
+  }
+  
+  h2, h3 {
+    color: #343a40;
+  }
+  
+  .table th, .table td {
+    text-align: center;
+  }
+  
+  .form-control {
+    border-radius: 0.25rem;
+  }
+  
+  .btn {
+    width: 100%;
+  }
+  
